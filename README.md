@@ -1,5 +1,6 @@
 View:
-https://millerolesiajob.github.io/Grid-Template/
+https://millerolesiajob.github.io/Landing-Grid-Template/
+
 
 Technology:
 HTML5
